@@ -9,6 +9,8 @@ untouched: the browser gets real HTML rendered on the server, and every tap runs
 | --- | --- | --- |
 | ![Start](docs/planets-start.png) | ![Planets](docs/planets-explore.png) | ![Phone](docs/planets-phone.png) |
 
+**Try it live:** https://live.mauiweb.appmare.com/planets (also in the [MauiWeb live gallery](https://mauiweb.appmare.com/gallery.html)'s Samples section).
+
 ## Run it
 
 Requirements: the .NET 11 SDK and the .NET MAUI 11 workload (`dotnet workload install maui`).
