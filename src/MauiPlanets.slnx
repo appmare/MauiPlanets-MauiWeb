@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MauiPlanets.Web/MauiPlanets.Web.csproj" />
+  <Project Path="MauiPlanets/MauiPlanets.csproj" />
+</Solution>
